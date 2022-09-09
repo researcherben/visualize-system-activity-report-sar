@@ -1,6 +1,7 @@
 # visualize data from a system activity report (SAR) file
 
 SAR collects system metrics useful for long-duration profiling in linux.
+Overview: https://www.thegeekstuff.com/2011/03/sar-examples/
 
 Sources of bottlenecks are
 * CPU 
